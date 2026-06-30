@@ -61,10 +61,10 @@
 
 <table>
 <tr><td>🎓</td><td><b>Education</b></td><td>BSc. (Hons) Electronic & Telecommunication Engineering — General Sir John Kotelawala Defence University</td></tr>
-<tr><td>🔭</td><td><b>Building</b></td><td>End-to-end systems spanning <b>PCB to production</b> — embedded hardware, cloud-connected IoT, AI-powered apps, mobile/web platforms</td></tr>
+<tr><td>🔭</td><td><b>Building</b></td><td>End-to-end systems spanning <b>PCB to production</b> - embedded hardware, cloud-connected IoT, AI-powered apps, mobile/web platforms</td></tr>
 <tr><td>🧠</td><td><b>Interests</b></td><td>Embedded Systems · AI/ML · Computer Vision · IoT · Wireless Comms · Robotics</td></tr>
 <tr><td>🌱</td><td><b>Exploring</b></td><td>Advanced AI model deployment & edge inference</td></tr>
-<tr><td>🏅</td><td><b>Beyond Code</b></td><td>Competitive air rifle shooter — Secretary, Shooting Sports Association, KDU 🎯</td></tr>
+<tr><td>🏅</td><td><b>Beyond Code</b></td><td>Competitive air rifle shooter - Secretary, Shooting Sports Association, KDU 🎯</td></tr>
 <tr><td>📍</td><td><b>Based in</b></td><td>Sri Lanka 🇱🇰</td></tr>
 </table>
 
@@ -368,7 +368,7 @@ Line/wall following, obstacle avoidance & ramp navigation robot with 8-channel I
 
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50%">
 </div>
 
 <br>
