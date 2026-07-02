@@ -60,7 +60,7 @@
 <td width="50%" valign="top">
 
 <table>
-<tr><td>🎓</td><td><b>Education</b></td><td>BSc. (Hons) Electronic & Telecommunication Engineering — General Sir John Kotelawala Defence University</td></tr>
+<tr><td>🎓</td><td><b>Education</b></td><td>BSc. (Hons) Electronic & Telecommunication Engineering - General Sir John Kotelawala Defence University</td></tr>
 <tr><td>🔭</td><td><b>Building</b></td><td>End-to-end systems spanning <b>PCB to production</b> - embedded hardware, cloud-connected IoT, AI-powered apps, mobile/web platforms</td></tr>
 <tr><td>🧠</td><td><b>Interests</b></td><td>Embedded Systems · AI/ML · Computer Vision · IoT · Wireless Comms · Robotics</td></tr>
 <tr><td>🌱</td><td><b>Exploring</b></td><td>Advanced AI model deployment & edge inference</td></tr>
@@ -211,7 +211,7 @@ Fusing sensors, control theory, and mechanical design into autonomous machines.
 
 <div align="center">
 
-> 💡 **Strongest areas:** AI/ML & Vision, Embedded Systems & IoT, and Mobile/Web/Cloud — backed by hands-on project work spanning all three.
+> 💡 **Strongest areas:** AI/ML & Vision, Embedded Systems & IoT, and Mobile/Web/Cloud - backed by hands-on project work spanning all three.
 
 </div>
 
@@ -230,7 +230,7 @@ Fusing sensors, control theory, and mechanical design into autonomous machines.
 ### 📡 IoT & Embedded
 
 <details open>
-<summary><b>🟢 MinePulse</b> — Underground Mine Safety System</summary>
+<summary><b>🟢 MinePulse</b> - Underground Mine Safety System</summary>
 <br/>
 
 Multi-node IoT safety system for real-time underground hazard detection (methane, CO, flooding). Custom PCBs, multi-node LoRa mesh with ACK handshaking, Firebase + FCM alerts, GSM SMS, Flutter app.
@@ -241,10 +241,10 @@ Multi-node IoT safety system for real-time underground hazard detection (methane
 </details>
 
 <details>
-<summary><b>🟣 LankaMesh</b> — Decentralized Emergency Mesh Network</summary>
+<summary><b>🟣 LankaMesh</b> - Decentralized Emergency Mesh Network</summary>
 <br/>
 
-Decentralized LoRa mesh communication network for emergency/low-connectivity environments — SOS messaging, GPS tracking, Flutter app.
+Decentralized LoRa mesh communication network for emergency/low-connectivity environments - SOS messaging, GPS tracking, Flutter app.
 
 `ESP32-S3` `LoRa RA-02` `GPS NEO-4M` `Flutter`
 
@@ -252,7 +252,7 @@ Decentralized LoRa mesh communication network for emergency/low-connectivity env
 </details>
 
 <details>
-<summary><b>🟡 FeelFill</b> <i>(ongoing)</i> — Blind-Friendly Smart Cup</summary>
+<summary><b>🟡 FeelFill</b> <i>(ongoing)</i> - Blind-Friendly Smart Cup</summary>
 <br/>
 
 Smart blind-friendly measuring cup using non-contact capacitive sensing, vibration/buzzer feedback, low-power embedded design.
@@ -266,7 +266,7 @@ Smart blind-friendly measuring cup using non-contact capacitive sensing, vibrati
 ### 🧠 AI & Machine Learning
 
 <details open>
-<summary><b>🔵 NexDrive</b> — Driver Fatigue Detection Platform</summary>
+<summary><b>🔵 NexDrive</b> - Driver Fatigue Detection Platform</summary>
 <br/>
 
 Full-stack driver safety platform: EfficientNet-B0 CNN (93.24% accuracy) for fatigue classification, PERCLOS scoring, voice alerts, GPS tracking, FastAPI + JWT backend, Dockerized, Flutter app.
@@ -277,7 +277,7 @@ Full-stack driver safety platform: EfficientNet-B0 CNN (93.24% accuracy) for fat
 </details>
 
 <details>
-<summary><b>🔴 AI Proctoring System</b> — Real-Time Exam Monitoring</summary>
+<summary><b>🔴 AI Proctoring System</b> - Real-Time Exam Monitoring</summary>
 <br/>
 
 Real-time exam proctoring with MediaPipe face detection + YOLOv8 violation detection, dynamic risk scoring, live analytics dashboard, CSV audit logging.
@@ -290,7 +290,7 @@ Real-time exam proctoring with MediaPipe face detection + YOLOv8 violation detec
 ### 🤖 Robotics
 
 <details>
-<summary><b>🟠 Mars Robot</b> — Autonomous Exploration Robot</summary>
+<summary><b>🟠 Mars Robot</b> - Autonomous Exploration Robot</summary>
 <br/>
 
 Autonomous robot with IR/ultrasonic/gyro/color sensor fusion, ESP32-S3 control, SolidWorks chassis, encoder-based motor control.
@@ -299,7 +299,7 @@ Autonomous robot with IR/ultrasonic/gyro/color sensor fusion, ESP32-S3 control, 
 </details>
 
 <details>
-<summary><b>⚪ ROSCO'25</b> — Competition Navigation Robot</summary>
+<summary><b>⚪ ROSCO'25</b> - Competition Navigation Robot</summary>
 <br/>
 
 Line/wall following, obstacle avoidance & ramp navigation robot with 8-channel IR array + ToF + IMU sensor fusion, PID control, modular state-machine architecture.
