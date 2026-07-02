@@ -31,7 +31,7 @@
 <table align="center">
 <tr>
 <td align="center" bgcolor="#0d1117">
-<img src="https://img.shields.io/badge/6%2B-Projects-00C2A8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/10%2B-Projects-00C2A8?style=for-the-badge"/>
 </td>
 <td align="center" bgcolor="#0d1117">
 <img src="https://img.shields.io/badge/9%2B-Awards-7B2FF7?style=for-the-badge"/>
@@ -211,7 +211,7 @@ Fusing sensors, control theory, and mechanical design into autonomous machines.
 
 <div align="center">
 
-> 💡 **Strongest areas:** AI/ML & Vision, Embedded Systems & IoT, and Mobile/Web/Cloud - backed by hands-on project work spanning all three.
+> 💡 **Strongest areas:** AI/ML & Vision, Embedded Systems & IoT and Mobile/Web/Cloud - backed by hands-on project work spanning all three.
 
 </div>
 
@@ -366,9 +366,21 @@ Line/wall following, obstacle avoidance & ramp navigation robot with 8-channel I
 
 </div>
 
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sanchila-amavi-6b4660274/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://sanchila-amavi.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-00C2A8?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50%">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25%">
 </div>
 
 <br>
