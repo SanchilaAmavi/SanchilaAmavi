@@ -34,10 +34,10 @@
 <img src="https://img.shields.io/badge/10%2B-Projects-00C2A8?style=for-the-badge"/>
 </td>
 <td align="center" bgcolor="#0d1117">
-<img src="https://img.shields.io/badge/9%2B-Awards-7B2FF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/10%2B-Awards-7B2FF7?style=for-the-badge"/>
 </td>
 <td align="center" bgcolor="#0d1117">
-<img src="https://img.shields.io/badge/7-Certifications-FF6B6B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/10+-Certifications-FF6B6B?style=for-the-badge"/>
 </td>
 <td align="center" bgcolor="#0d1117">
 <img src="https://img.shields.io/badge/3-Domains%20Mastered-FFD93D?style=for-the-badge"/>
