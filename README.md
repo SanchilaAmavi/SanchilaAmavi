@@ -320,13 +320,10 @@ Line/wall following, obstacle avoidance & ramp navigation robot with 8-channel I
 </div>
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SanchilaAmavi&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=00C2A8&icon_color=7B2FF7&text_color=ffffff&bg_color=0d1117" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SanchilaAmavi&theme=radical&hide_border=true&background=0d1117&ring=00C2A8&fire=FF6B6B&currStreakLabel=00C2A8" />
+ 
+  <img height="165" src="https://raw.githubusercontent.com/SanchilaAmavi/SanchilaAmavi/main/profile/streak.svg" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanchilaAmavi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00C2A8&text_color=ffffff" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanchilaAmavi&theme=react-dark&hide_border=true&bg_color=0d1117&color=00C2A8&line=7B2FF7&point=FF6B6B" width="100%" />
